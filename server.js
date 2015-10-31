@@ -12,9 +12,12 @@ app.listen(port);
 console.log('Listening on port ' + port);
 
 var superheroes = [{
+	'id': '1'
 	'name': 'Ant-Man',
 }, {
+	'id': '2'
 	'name': 'Spider-Man',
 }, {
+	'id': '3'
 	'name': 'Daredevil',
 }];
